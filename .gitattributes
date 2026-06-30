@@ -1,0 +1,3 @@
+# Mark GameController as vendored so it doesn't affect language stats
+# (Primary languages: C++ and Python for the goal detector)
+/gamecontroller/** linguist-vendored=true

@@ -1,0 +1,4 @@
+.*.swp
+/game_controller_api/headers
+/logs
+/target

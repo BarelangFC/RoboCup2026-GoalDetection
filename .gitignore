@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+.venv/
+build/
+*.engine
+*.onnx
+*.pt
+*.json
+*.log
+*.jpg
+*.png
+.DS_Store
+nvidia-jetson.md
+ultralytics-docs/
